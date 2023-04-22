@@ -23,7 +23,7 @@ If you plan on bringing either a laptop or a gaming console, please make sure th
 
 Please lock your computer while you are away/put your console in sleep mode (and please add a login pin to the console!), and take your XBox/Playstation controllers with you. If you don't, your screen saver (or game dashboard) will almost certainly have some form of dubious content on it. You have been warned. 
 
-In regards to Internet, the event will provide a internet connection; but an Ethernet cord of at least 50ft and of Cat6E quality or better should be in your belongings. (length of cable has not been confirmed yet as of 04/22/2023 per event staff)
+In regards to Internet, the event will provide a internet connection; but an Ethernet cord of at least 50ft and of CAT6 quality or better should be in your belongings. (length of cable has not been confirmed yet as of 04/22/2023 per event staff)
 
 Make friends on the same row as you and toss them a Bawls or two if you want them to look after your belongings. You know, the whole squeaky wheel gets the grease kinda thing ...
 
