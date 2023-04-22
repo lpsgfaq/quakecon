@@ -6,7 +6,7 @@ Step 1 - Windows!
  If you're bringing a PC; Try to follow the flow for installing your OS if you're doing a clean Windows install before the con:
  OS → Updates (Windows 11 downloads these automatically typically before first system use) → Hardware Drivers → Browser → Misc Software (Spotify/Discord) → Games
  
- Over the past four FAQs, I’ve recommended Macrium Reflect. Due to Macrium no longer offering a free edition starting with version 8.0, Macrium Reflect is no longer recommended; and NTLite will be recommended in its place to help minimize downtime during Windows installs.
+ NTLite is now recommended over Macrium Reflect to help minimize downtime for Windows installs.
 
  Step 2 - Games!
  
@@ -47,4 +47,5 @@ Make friends on the same row as you and toss them a Bawls or two if you want the
 Special Thanks: 
 
 Freak - for the format originally brought over from the old Bethesda forums
+
 Neg1 and the QConForums Team - for previously hosting the FAQ as a stickied post on their site
